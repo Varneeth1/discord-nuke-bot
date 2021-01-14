@@ -1,5 +1,4 @@
-#bot created by Sir Sinister
-#make sure to read the read me file for instructions
+
 
 import discord
 from discord.ext import commands
